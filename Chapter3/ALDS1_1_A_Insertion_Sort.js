@@ -19,7 +19,7 @@ const insertionSort = input => {
 
 insertionSort(
   require("fs").readFileSync(
-    "/Users/ryosuke/Project/data-structures-and-algorithm/Chapter3/sample.txt",
+    "/Users/ryosuke/Project/data-structures-and-algorithm/Chapter3/ALDS1_1_A_Insertion_Sort.txt",
     "UTF-8"
   )
 );
