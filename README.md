@@ -2,9 +2,9 @@
 The implementations of the book "プログラミングコンテスト攻略のためのアルゴリズムとデータ構造"
 https://www.amazon.co.jp/dp/4839952957
 
-# compile
+## 提出先
 
-https://paiza.io/ja/projects/new?language=cpp
+AIZU ONLINE JUDGE: Programming Challenge http://judge.u-aizu.ac.jp/onlinejudge/
 
 ## 目次
 
@@ -15,7 +15,7 @@ https://paiza.io/ja/projects/new?language=cpp
 
 - Chapter3 初等的整列
   - 3.1 ソート：
-  - 3.2 挿入ソート
+  - 3.2 挿入ソート（./Chapter3/ALDS1_1_A_Insertion_Sort.js）
   - 3.3 バブルソート
   - 3.4 選択ソート
   - 3.5 安定なソート
