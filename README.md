@@ -15,7 +15,8 @@ AIZU ONLINE JUDGE: Programming Challenge http://judge.u-aizu.ac.jp/onlinejudge/
 
 - Chapter3 初等的整列
   - 3.1 ソート：
-  - 3.2 挿入ソート（ https://github.com/ryosuketter/data-structures-and-algorithm/blob/master/Chapter3/ALDS1_1_A_Insertion_Sort.js ）
+  - 3.2 挿入ソート
+    - https://github.com/ryosuketter/data-structures-and-algorithm/blob/master/Chapter3/ALDS1_1_A_Insertion_Sort.js
   - 3.3 バブルソート
   - 3.4 選択ソート
   - 3.5 安定なソート
